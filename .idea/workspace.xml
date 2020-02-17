@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b77538e-0351-4882-8af4-1555822edc6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/node学习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01全局成员.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02定时函数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03process.argv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.1mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.2引入mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.3通过global导出mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04.4通过global引入mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05参数结构赋值.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06Buffer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07node实现文件管理.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08文件流式操作.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09文件状态同步与异步操作.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.01简单的静态服务器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node学习.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XToLjt7Fs03KveP3oEEljLmmrp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Node.js.03process.argv.js">
+    <configuration name="01全局成员.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01全局成员.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="02定时函数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02定时函数.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03process.argv.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03process.argv.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.03process.argv.js" />
+        <item itemvalue="Node.js.02定时函数.js" />
+        <item itemvalue="Node.js.01全局成员.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b77538e-0351-4882-8af4-1555822edc6f" name="Default Changelist" comment="" />
+      <created>1581079391428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581079391428</updated>
+      <workItem from="1581079393285" duration="1155000" />
+      <workItem from="1581084166440" duration="3000" />
+      <workItem from="1581673924839" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="727" height="255" key="GridCell.Tab.0.bottom" timestamp="1581080552148">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="727" height="255" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1581080552148" />
+    <state width="727" height="255" key="GridCell.Tab.0.center" timestamp="1581080552148">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="727" height="255" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1581080552148" />
+    <state width="727" height="255" key="GridCell.Tab.0.left" timestamp="1581080552148">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="727" height="255" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1581080552148" />
+    <state width="727" height="255" key="GridCell.Tab.0.right" timestamp="1581080552148">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="727" height="255" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1581080552148" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1581079414835">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1500.960@0.0.1500.960" timestamp="1581079414835" />
+  </component>
+</project>
