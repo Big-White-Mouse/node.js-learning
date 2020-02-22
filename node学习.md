@@ -481,6 +481,7 @@ readStream.pipe(writeStream);
 4. 制作包
    - cd到想要打包成包的文件夹内  npm init
    - npm init -y(所有属性均默认)
+   - 根目录名称不能由中文
 5. 包的执行
    - node [文件夹名]
 
@@ -538,6 +539,10 @@ readStream.pipe(writeStream);
 
 - 见 <https://www.runoob.com/nodejs/nodejs-event.html>
 
+## 模板引擎的使用
+
+- 见scorereq/
+
 ## Express
 
 ### nodejs中web开发的相关内容
@@ -552,6 +557,7 @@ readStream.pipe(writeStream);
 ### Web开发框架: express
 
 - express将上述api进行整合，形成了一套新的api
+- 支持链式编程
 
 #### 服务器
 
@@ -559,4 +565,22 @@ readStream.pipe(writeStream);
 
 #### 路由处理
 
-- 见文件15.02
+- 见文件myexpress/15.02
+
+#### 中间件
+
+- 应用级中间件
+  - .use
+- 路由级中间件
+  - .get.post.put.delete
+- 错误处理级中间件
+- 内置中间件
+- 第三方中间件
+
+#### express与模板引擎的结合
+
+- 见文件
+
+## 数据库
+
+- 以后再看

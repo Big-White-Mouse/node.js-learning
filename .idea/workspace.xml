@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b77538e-0351-4882-8af4-1555822edc6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node学习.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01全局成员.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02定时函数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03process.argv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.1mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.2引入mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.3通过global导出mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.4通过global引入mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05参数结构赋值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06Buffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07node实现文件管理.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08文件流式操作.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09文件状态同步与异步操作.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.01简单的静态服务器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node学习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypac/课程准备.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mypac/课程准备.md" beforeDir="false" afterPath="$PROJECT_DIR$/mypac/课程准备.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/node学习.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Node.js.03process.argv.js">
+  <component name="RunManager" selected="Node.js.01全局成员.js">
     <configuration name="01全局成员.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01全局成员.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -53,13 +37,6 @@
     <configuration name="03process.argv.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/03process.argv.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.03process.argv.js" />
-        <item itemvalue="Node.js.02定时函数.js" />
-        <item itemvalue="Node.js.01全局成员.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -86,6 +63,9 @@
       <workItem from="1581079393285" duration="1155000" />
       <workItem from="1581084166440" duration="3000" />
       <workItem from="1581673924839" duration="4000" />
+      <workItem from="1581935978234" duration="2000" />
+      <workItem from="1582041404149" duration="2000" />
+      <workItem from="1582100581530" duration="4000" />
     </task>
     <servers />
   </component>

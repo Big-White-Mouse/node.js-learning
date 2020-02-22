@@ -1,0 +1,50 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form action="http://localhost:3000/login" method="get">
+		uname: <input type="text" name="username" id=""><br>
+		passwd: <input type="password" name="password" id=""><br>
+		<input type="submit" value="提交">
+	</form>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="jquery-3.4.1.js"></script>
+	<script>
+		$(function(){
+			$('#btn').click(function(){
+				var obj = {
+					username : $('#username').val(),
+					password : $('#password').val()
+				}//使用json格式传输数据
+				$.ajax({
+					type : 'post',
+					url : 'http://localhost:3000/login',
+					dataType : 'text',
+					// data : $('form:eq(0)').serialize(),
+					data : JSON.stringify(obj),
+					success : function(data){
+						console.log(data);
+					}
+				});
+			});
+		});
+	</script>
+</head>
+<body>
+	<form action="http://localhost:3000/login" method="get">
+		uname: <input type="text" name="username" id="username"><br>
+		passwd: <input type="password" name="password" id="password"><br>
+		<input type="button" id="btn" value="提交">
+	</form>
+</body>
+</html>
